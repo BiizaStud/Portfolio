@@ -1,4 +1,4 @@
-#Labs
+# Labs
 |Term 6                         |Term 5                         |
 |-------------------------------|-----------------------------|
 |[Lab 1](https://replit.com/@BiizaStud/ClassicIntelligentEvaluations)||
